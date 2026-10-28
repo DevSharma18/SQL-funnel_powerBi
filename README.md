@@ -36,13 +36,12 @@
 
 ## 📌 Project Overview
 
-This repository is the **Final Week (Week 4) Project** of the **Logic Stack Data Analyst Internship** — a complete, end-to-end data analysis workflow built around real-world client website behaviour data.
+a complete, end-to-end data analysis workflow built around real-world client website behaviour data.
 
 The project demonstrates a full business intelligence pipeline: importing raw CSV data into a relational SQLite database, writing structured SQL queries to extract funnel metrics, revenue performance and user behaviour patterns, and finally presenting executive-level insights through an interactive Power BI dashboard.
 
-> 💼 **Internship:** Logic Stack — Data Analysis Internship (23 Jun – 23 Jul 2026)
 
-> 🧩 **Task:** Week 4 Final Project — Client Site Funnel & Revenue Analysis
+> 🧩 **Task:** Client Site Funnel & Revenue Analysis
 
 > 🛠️ **Tools:** SQLite · DB Browser for SQLite · SQL · Power BI Desktop · DAX
 
@@ -72,15 +71,9 @@ The project demonstrates a full business intelligence pipeline: importing raw CS
 
 | Detail | Description |
 |---|---|
-| 🏢 **Company** | Logic Stack |
-| 👨‍💻 **Role** | Data Analyst Intern |
-| 📅 **Internship** | Data Analysis Internship — 23 Jun to 23 Jul 2026 |
-| 🧩 **Task** | Week 4 — Final Project (Task 04) |
-| ⏱️ **Duration** | 7 Days (1-Month Internship Final Week) |
 | 💻 **Project Type** | SQL Analytics + Power BI Business Dashboard |
 | 🛠️ **Tools** | SQLite, DB Browser for SQLite, SQL, Power BI, DAX, VS Code |
-| 📦 **Deliverables** | SQL Queries · SQLite Database · Power BI Dashboard · Business Insights |
-| 🔗 **Previous Weeks** | [Week 1 — Excel](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) · [Week 2 — Excel + Power BI](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) · [Week 3 — Python + Power BI](https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics) |
+| 📦 **Deliverables** | SQL Queries · SQLite Database · Power BI Dashboard ·
 
 ---
 
@@ -312,9 +305,9 @@ The cleaned dataset was imported into **Power BI Desktop** and a complete **Clie
 
 **Dashboard Title:** Client Site Analytics Dashboard
 
-**File:** 
+**File:**
 
-``` 
+```
 `powerbi/Client_Site_Analytics_Dashboard.pbix`
  ```
 
@@ -570,8 +563,8 @@ This analysis enables businesses to:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YasirAwan4831/week-4-sql-powerbi-funnel-analysis.git
-cd week-4-sql-powerbi-funnel-analysis
+git clone https://github.com/DevSharma18/SQL-funnel_powerBi.git
+cd sql-powerbi-funnel-analysis
 
 # 2. Open the SQLite database
 # Install DB Browser for SQLite from: https://sqlitebrowser.org/
@@ -614,87 +607,3 @@ Interact with Dashboard
 | VS Code (optional) | Latest | [code.visualstudio.com](https://code.visualstudio.com/) |
 
 ---
-
-## 🔗 Complete Internship Journey
-
-| Week | Repository | Tools | Focus |
-|---|---|---|---|
-| **Week 1** | [week-1-retail-sales-excel-analysis](https://github.com/YasirAwan4831/week-1-retail-sales-excel-analysis) | Excel | Data Cleaning · Formulas · Charts |
-| **Week 2** | [week-2-excel-powerbi-sales-dashboard](https://github.com/YasirAwan4831/week-2-excel-powerbi-sales-dashboard) | Excel + Power BI | Pivot Tables · KPIs · Dashboard |
-| **Week 3** | [week-3-python-powerbi-supply-chain-analytics](https://github.com/YasirAwan4831/week-3-python-powerbi-supply-chain-analytics) | Python + Power BI | EDA · Supply Chain Analytics |
-| **Week 4** | [week-4-sql-powerbi-funnel-analysis *(current)*](https://github.com/YasirAwan4831/week-4-sql-powerbi-funnel-analysis) | SQL + Power BI | Funnel Analysis · Revenue · BI Dashboard |
-
----
-
-## 🙏 Acknowledgements
-
-Special thanks to **[Logic Stack](https://www.linkedin.com/company/logicstackofficial/posts/?feedView=all)** for designing a structured, hands-on Data Analyst Internship that progresses from Excel fundamentals through Python EDA to SQL analytics and Power BI dashboards — building real, job-ready skills every week.
-
----
-
-## 📄 License
-
-This project is licensed under the **CPL License**. See the **[LICENSE](LICENSE)** file for details.
-
-<br/>
-
----
-
-## 👨‍💻 About the Author
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Muhammad+Yasir;Full+Stack+Web+Developer;Data+Analyst;AI+%26+Automation+Enthusiast;React+%7C+Node.js+%7C+MongoDB" />
-
-<br/>
-
-**[Muhammad Yasir](https://yasirawan4831.github.io/futuristic-links-dashboard/)** is a **Full Stack Web Developer, Data Analyst and AI Automation Enthusiast** passionate about building scalable web applications, data-driven solutions, automation systems and modern software products with clean architecture and outstanding user experience.
-
-<br/>
-
-### 🌐 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirawan4831)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasirawaninfo.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:my3154831409@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YasirAwan4831&style=for-the-badge&color=d4af37&label=PROFILE+VIEWS)
-
-<br/>
-
----
-## 📊 Repository Statistics
-
-![GitHub Repo stars](https://img.shields.io/github/stars/YasirAwan4831/week-4-sql-powerbi-funnel-analysis?style=for-the-badge)
-
-![GitHub forks](https://img.shields.io/github/forks/YasirAwan4831/week-4-sql-powerbi-funnel-analysis?style=for-the-badge)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/YasirAwan4831/week-4-sql-powerbi-funnel-analysis?style=for-the-badge)
-
-![GitHub repo size](https://img.shields.io/github/repo-size/YasirAwan4831/week-4-sql-powerbi-funnel-analysis?style=for-the-badge)
-
----
-
-## ⭐ Support This Project
-
-If you found this project useful or inspiring, consider giving it a **⭐ Star** on GitHub. 
-Your support motivates me to continue building and sharing high-quality open-source projects.
-
-<br/>
-
-[![⭐ Star This Repository](https://img.shields.io/badge/⭐%20Star%20This%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirAwan4831)
-
-<br/>
-
----
-
-<p align="center">
-Crafted with precision and passion by <strong><a href="https://yasirawaninfo.vercel.app/" target="_blank">Muhammad Yasir</a></strong><br/>
-
-Full Stack Web Developer • Data Analyst • AI & Automation Enthusiast • Open Source Contributor
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBDEFB,25:64B5F6,50:2196F3,75:1976D2,100:0D47A1&height=180&section=footer&text=Thank%20You%20for%20Visiting&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
