@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Funnel%20and%20Revenue%20Analytics&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SQL%20%7C%20Power%20BI%20%7C%20Week%204%20Final%20Internship%20Project&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:2196F3,100:0D47A1&height=260&section=header&text=Funnel%20and%20Revenue%20Analytics&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SQL%20%7C%20Power%20BI%20%7C%&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br/>
 
@@ -20,13 +20,6 @@
 [![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0D47A1?style=for-the-badge&logo=databricks&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-
-[![Internship](https://img.shields.io/badge/Internship-Logic%20Stack-2196F3?style=flat-square)](#)
-[![Week](https://img.shields.io/badge/Week-4%20Final%20Project-0D47A1?style=flat-square)](#)
-[![Task](https://img.shields.io/badge/Task-04-F2C811?style=flat-square)](#)
-[![Role](https://img.shields.io/badge/Role-Data%20Analyst%20Intern-1565C0?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-CPL-blue.svg?style=flat-square)](#license)
 
 </div>
 
@@ -66,8 +59,7 @@ The project demonstrates a full business intelligence pipeline: importing raw CS
 ✔ Professional Structure
 
 ---
-
-## 🎓 Internship Information
+# Project Description
 
 | Detail | Description |
 |---|---|
